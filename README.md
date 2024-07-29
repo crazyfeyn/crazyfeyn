@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Golib Toramurodov</h1>
 <h3 align="left">A passionate Flutter developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on **Aytijobs app that dev could seek for job**
+- 🔭 I’m currently working on **Aytijobs app that developers could seek for job**
 
 - 🌱 I’m currently learning **Flutter**
 
