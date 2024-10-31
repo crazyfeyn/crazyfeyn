@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **DART, Flutter, Python, MySQL**
+- 💬 Ask me about **DART, Flutter, Python, MySQL, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **1golibtoramurodov@gmail.com**
 
