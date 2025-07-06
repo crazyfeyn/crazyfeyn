@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **DART, Flutter, Python, MySQL, HTML, CSS, JavaScript**
 
-- 📫 How to reach me **1golibtoramurodov@gmail.com**
+- 📫 How to reach me **golibjon@jbnu.ac.kr**
 
 - ⚡ Fun fact **I love cartoons and k-dramas**
 
