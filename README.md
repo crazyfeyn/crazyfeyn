@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Golib Toramurodov</h1>
 <h3 align="left">A passionate Flutter developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **DART, Flutter, Python, MySQL, HTML, CSS, JavaScript**
+- 💬 Ask me about **DART, Flutter, Python, C, MySQL, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **golibjon@jbnu.ac.kr**
 
